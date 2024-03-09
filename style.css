@@ -1,0 +1,16 @@
+ body{
+   background-color: rgb(236, 9, 183);
+   background-image: url(project.jpg);
+ }
+ #clock {
+   background-image: url();
+    background-color: bisque;
+    font-size: 175px;
+    width: 900px;
+    margin: 200px;
+    text-align: center;
+    border: 2px solid black;
+    background: local;
+    border-radius: 20px;
+    border-radius: 0ch;
+}
